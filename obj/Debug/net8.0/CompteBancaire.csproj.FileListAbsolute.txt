@@ -1,0 +1,14 @@
+C:\Users\Thinkpad\source\repos\CompteBancaire\CompteBancaire\bin\Debug\net8.0\CompteBancaire.exe
+C:\Users\Thinkpad\source\repos\CompteBancaire\CompteBancaire\bin\Debug\net8.0\CompteBancaire.deps.json
+C:\Users\Thinkpad\source\repos\CompteBancaire\CompteBancaire\bin\Debug\net8.0\CompteBancaire.runtimeconfig.json
+C:\Users\Thinkpad\source\repos\CompteBancaire\CompteBancaire\bin\Debug\net8.0\CompteBancaire.dll
+C:\Users\Thinkpad\source\repos\CompteBancaire\CompteBancaire\bin\Debug\net8.0\CompteBancaire.pdb
+C:\Users\Thinkpad\source\repos\CompteBancaire\CompteBancaire\obj\Debug\net8.0\CompteBancaire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thinkpad\source\repos\CompteBancaire\CompteBancaire\obj\Debug\net8.0\CompteBancaire.AssemblyInfoInputs.cache
+C:\Users\Thinkpad\source\repos\CompteBancaire\CompteBancaire\obj\Debug\net8.0\CompteBancaire.AssemblyInfo.cs
+C:\Users\Thinkpad\source\repos\CompteBancaire\CompteBancaire\obj\Debug\net8.0\CompteBancaire.csproj.CoreCompileInputs.cache
+C:\Users\Thinkpad\source\repos\CompteBancaire\CompteBancaire\obj\Debug\net8.0\CompteBancaire.dll
+C:\Users\Thinkpad\source\repos\CompteBancaire\CompteBancaire\obj\Debug\net8.0\refint\CompteBancaire.dll
+C:\Users\Thinkpad\source\repos\CompteBancaire\CompteBancaire\obj\Debug\net8.0\CompteBancaire.pdb
+C:\Users\Thinkpad\source\repos\CompteBancaire\CompteBancaire\obj\Debug\net8.0\CompteBancaire.genruntimeconfig.cache
+C:\Users\Thinkpad\source\repos\CompteBancaire\CompteBancaire\obj\Debug\net8.0\ref\CompteBancaire.dll
